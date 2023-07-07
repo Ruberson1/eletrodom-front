@@ -5223,6 +5223,11 @@ pretty@2.0.0:
     extend-shallow "^2.0.1"
     js-beautify "^1.6.12"
 
+primevue@^3.29.2:
+  version "3.29.2"
+  resolved "https://registry.yarnpkg.com/primevue/-/primevue-3.29.2.tgz#de3fd996a84353e6a817023f7c43b3f368b4a121"
+  integrity sha512-zMk1w5AySLR6ipWH2fONKtDabHrvRZhZFI1OdoiBDdMhZpARmWuCXwE/ZFusUh5Te0RBEd3iVCiizjUkSRraRQ==
+
 process-nextick-args@~2.0.0:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/process-nextick-args/-/process-nextick-args-2.0.1.tgz#7820d9b16120cc55ca9ae7792680ae7dba6d7fe2"
@@ -6315,6 +6320,11 @@ vue-loader@^17.0.0:
     chalk "^4.1.0"
     hash-sum "^2.0.0"
     watchpack "^2.4.0"
+
+vue-money-mask@^0.8.1:
+  version "0.8.1"
+  resolved "https://registry.yarnpkg.com/vue-money-mask/-/vue-money-mask-0.8.1.tgz#1e834a03038c52e5a50bf9adf78ca33fca338fb7"
+  integrity sha512-8amW7OgO6oRlEHJu2Tnka72MvIjQOetNbptIjJ+RBQpDaQSna92K5XWBxi6A8O0IC4LlHiF4wlmwKJLfy/4yMQ==
 
 vue-router@^4.0.3:
   version "4.2.2"

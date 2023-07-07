@@ -28,22 +28,8 @@ export default {
   setup() {
 
     const { value: isDarkMode, toggle: toggleDarkMode } = useToggle(false);
-    // const route = useRoute();
-    // const showCards = ref(true);
-
-    // const checkRoute = () => {
-    //   if (route.name === "product-form") {
-    //     showCards.value = false;
-    //   } else {
-    //     showCards.value = true;
-    //   }
-    // };
-    //
-    // onMounted(checkRoute);
-    // watch(route, checkRoute);
     return {
       isDarkMode,
-      // showCards,
     };
   },
 };
